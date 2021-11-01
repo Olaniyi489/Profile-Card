@@ -1,0 +1,51 @@
+body{
+    background: hsl(185, 75%, 39%);
+    margin: 100px;
+    padding: 20px;
+    width: 600px;
+    background-image: url("bg-pattern-top.svg");
+    background-repeat: repeat;
+ }
+ .container-body{
+     text-align: center;
+     width: 700px; 
+     height: 510px;
+     background-color: white;
+     border-radius: 10px;
+     margin: 300px;
+ 
+ }
+ #prfl-pix{
+     width: 200px;
+     height: 200px;
+     border-radius: 50%;
+     position: absolute;
+     top: 60%;
+     left:37%;
+     padding: 10px;
+     border: 1px solid whitesmoke;
+     background-color: white;
+ }
+ .container-sub-body1{
+     margin: 20px;
+     padding: 60px;
+     font-size: 20px;
+   
+ }
+ .container-sub-body{
+     border-radius: 10px;
+ 
+ }
+ .alph{
+     color: rgb(197, 189, 189);
+     font-weight: bolder;
+     padding: 5px;
+ 
+ }
+ .container-sub-body2{
+     display: flex;
+     justify-content: center;
+     justify-content: space-evenly;
+     
+ }
+ 
